@@ -1,3 +1,10 @@
+<p align="center" >
+    <br>
+    <img src="/langle.png" width="550">
+
+<br>
+</p>
+
 # LANgle
 Chat with frnd just by using LAN. 
 You can chat with all of the devices which are in the same network
