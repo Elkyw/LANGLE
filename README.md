@@ -6,7 +6,7 @@ as you.
 ### What is this repository for?
 
 * Quick summary
-* [Issue Tracking](https://github.com/arsho/pychat/issues)
+* [Issue Tracking](https://github.com/Elkyw/LANGLE/issues)
 
 ### why this ??
 
